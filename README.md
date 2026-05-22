@@ -43,33 +43,33 @@ power-bi-advanced-dax/
 │
 ├── README.md                                      ← You are here
 │
+├── blue-bull-sales/
+│   ├── README.md
+│   ├── data/
+│   │   └── blue_bull_practice.xlsx
+│   ├── screenshots/
+│   │   └── blue-bull-dashboard.png
+│   └── Blue_Bull_Sales_Dashboard.pbix
+│
 ├── sugar-dough-sales/
 │   ├── README.md
-│   ├── Sugar_Dough_Sales_Dashboard.pbix
 │   ├── data/
-│   │   ├── sugar_dough_orders.xlsx
+│   │   ├── sugar_dough_cake_types.xlsx
 │   │   ├── sugar_dough_customers.xlsx
-│   │   └── sugar_dough_cake_types.xlsx
-│   └── screenshots/
-│       └── sugar-dough-dashboard.png
+│   │   └── sugar_dough_orders.xlsx
+│   ├── screenshots/
+│   │   └── sugar-dough-dashboard.png
+│   └── Sugar_Dough_Sales_Dashboard.pbix
 │
-├── sweet-delights-international-sales/
-│   ├── README.md
-│   ├── Sweet_Delights_International_Sales_Dashboard.pbix
-│   ├── data/
-│   │   ├── sweet_delights_international_Orders.xlsx
-│   │   ├── sweet_delights_international_Customers.xlsx
-│   │   └── sweet_delights_international_Cookie-Types.xlsx
-│   └── screenshots/
-│       └── sweet-delights-dashboard.png
-│
-└── blue-bull-sales/
+└── sweet-delights-international-sales/
     ├── README.md
-    ├── Blue_Bull_Sales_Dashboard.pbix
     ├── data/
-    │   └── blue_bull_practice.xlsx
-    └── screenshots/
-        └── blue-bull-dashboard.png
+    │   ├── sweet_delights_international_Cookie-Types.xlsx
+    │   ├── sweet_delights_international_Customers.xlsx
+    │   └── sweet_delights_international_Orders.xlsx
+    ├── screenshots/
+    │   └── sweet-delights-dashboard.png
+    └── Sweet_Delights_International_Sales_Dashboard.pbix
 ```
 
 ---
