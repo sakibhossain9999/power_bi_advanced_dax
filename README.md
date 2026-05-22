@@ -21,9 +21,9 @@ Instructor: Hussein ElGhoul · Completed: May 20, 2026
 
 | # | Dashboard | Dataset | Tools | Folder |
 |---|-----------|---------|-------|--------|
-| 1 | 🎂 Sugar Dough Sales | Orders, Customers, Cake Types | Power BI, Excel | [View →](./sugar-dough-sales/) |
-| 2 | 🍪 Sweet Delights International Sales | Orders, Customers, Cookie Types | Power BI, Excel | [View →](./sweet-delights-international-sales/) |
-| 3 | 🐂 Blue Bull Sales | Orders (Revenue, Cost, Units) | Power BI, Excel | [View →](./blue-bull-sales/) |
+| 1 | 🐂 Blue Bull Sales | Orders (Revenue, Cost, Units) | Power BI, Excel | [View →](./blue-bull-sales/) |
+| 2 | 🎂 Sugar Dough Sales | Orders, Customers, Cake Types | Power BI, Excel | [View →](./sugar-dough-sales/) |
+| 3 | 🍪 Sweet Delights International Sales | Orders, Customers, Cookie Types | Power BI, Excel | [View →](./sweet-delights-international-sales/) |
 
 ---
 
